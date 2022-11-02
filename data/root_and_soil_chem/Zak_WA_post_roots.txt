@@ -1,0 +1,79 @@
+Sample Group	Sample ID	mass (g)	%N	%C	Timestamp
+Zak- WA - Manistee Post Roots	Plot 1	0.2089	1.1314	49.816	11/5/20 12:16
+Zak- WA - Manistee Post Roots	Plot 2	0.2032	1.1499	50.38	11/5/20 12:22
+Zak- WA - Manistee Post Roots	Plot 3	0.2028	1.1003	50.804	11/5/20 12:27
+Zak- WA - Manistee Post Roots	Plot 4	0.2038	1.1265	50.954	11/5/20 12:33
+Zak- WA - Manistee Post Roots	Plot 5	0.2018	1.2493	53.038	11/5/20 12:38
+Zak- WA - Manistee Post Roots	Plot 6	0.2018	1.2215	53.664	11/5/20 12:44
+Zak- WA - Manistee Post Roots	Plot 7	0.2041	1.5073	47.64	11/5/20 12:49
+Zak- WA - Manistee Post Roots	Plot 8	0.201	1.5244	50.357	11/5/20 12:55
+Zak- WA - Manistee Post Roots	Plot 9	0.2029	1.4377	45.753	11/5/20 13:00
+Zak- WA - Manistee Post Roots	Plot 10	0.2009	1.5429	50.595	11/5/20 13:05
+Blank		1	0.03879	0.12135	11/5/20 13:11
+Zak- WA - Manistee Post Roots	Plot 11	0.2032	1.5283	48.907	11/5/20 13:16
+Zak- WA - Manistee Post Roots	Plot 12	0.2034	1.4891	47.005	11/5/20 13:22
+Zak- WA - Manistee Post Roots	Plot 13	0.2049	1.5672	51.628	11/5/20 13:27
+Zak- WA - Manistee Post Roots	Plot 14	0.202	1.524	50.076	11/5/20 13:33
+Zak- WA - Manistee Post Roots	Plot 15	0.2004	1.4632	51.156	11/5/20 13:38
+Zak- WA - Manistee Post Roots	Plot 16	0.202	1.5017	51.404	11/5/20 13:44
+Zak- WA - Manistee Post Roots	Plot 17	0.2024	1.4211	51.51	11/5/20 13:49
+Zak- WA - Manistee Post Roots	Plot 18	0.2024	1.5189	50.475	11/5/20 13:54
+Zak- WA - Manistee Post Roots	Plot 19	0.201	1.3314	50.583	11/5/20 14:00
+Zak- WA - Manistee Post Roots	Plot 20	0.203	1.4081	51.016	11/5/20 14:05
+orchard leaves - lot 1000		0.2041	2.324	49.443	11/5/20 14:11
+Zak- WA - Manistee Post Roots	Plot 21	0.2055	1.3514	50.938	11/5/20 14:16
+Zak- WA - Manistee Post Roots	Plot 22	0.2004	1.3584	50.062	11/5/20 14:22
+Zak- WA - Manistee Post Roots	Plot 23	0.2034	1.3805	50.325	11/5/20 14:27
+Zak- WA - Manistee Post Roots	Plot 24	0.203	1.3717	50.255	11/5/20 14:33
+Zak- WA - Manistee Post Roots	Plot 25	0.2015	1.2843	52.263	11/5/20 14:38
+Zak- WA - Manistee Post Roots	Plot 26	0.2024	1.2312	51.655	11/5/20 14:43
+Zak- WA - Manistee Post Roots	Plot 27	0.2009	1.232	50.495	11/5/20 14:49
+Zak- WA - Manistee Post Roots	Plot 28	0.2004	1.2396	49.498	11/5/20 14:54
+Zak- WA - Manistee Post Roots	Plot 29	0.2018	1.2251	52.328	11/5/20 15:00
+Zak- WA - Manistee Post Roots	Plot 30	0.2006	1.2348	51.692	11/5/20 15:05
+Blank		1	0.03872	0.11508	11/5/20 15:11
+Zak- WA - Manistee Post Roots	Plot 31	0.2001	1.5393	51.075	11/5/20 15:16
+Zak- WA - Manistee Post Roots	Plot 32	0.2009	1.5572	51.165	11/5/20 15:22
+Zak- WA - Manistee Post Roots	Plot 33	0.2015	1.4831	50.754	11/5/20 15:27
+Zak- WA - Manistee Post Roots	Plot 34	0.2021	1.5466	50.527	11/5/20 15:32
+Zak- WA - Manistee Post Roots	Plot 35	0.2026	1.589	51.219	11/5/20 15:38
+Zak- WA - Manistee Post Roots	Plot 36	0.2012	1.5397	50.173	11/5/20 15:43
+Zak- WA - Manistee Post Roots	Plot 37	0.2007	1.5262	48.554	11/5/20 15:49
+Zak- WA - Manistee Post Roots	Plot 38	0.2013	1.5336	48.558	11/5/20 15:54
+Zak- WA - Manistee Post Roots	Plot 39	0.2027	1.4846	48.504	11/5/20 16:00
+Zak- WA - Manistee Post Roots	Plot 40	0.2008	1.4431	46.598	11/5/20 16:05
+orchard leaves - lot 1000		0.2032	2.3493	49.736	11/5/20 16:11
+Zak- WA - Manistee Post Roots	Plot 41	0.2007	1.4786	47.269	11/5/20 16:16
+Zak- WA - Manistee Post Roots	Plot 42	0.2016	1.5277	48.398	11/5/20 16:21
+Zak- WA - Manistee Post Roots	Plot 43	0.2017	1.2468	51.951	11/5/20 16:27
+Zak- WA - Manistee Post Roots	Plot 44	0.2018	1.2283	52.194	11/5/20 16:32
+Zak- WA - Manistee Post Roots	Plot 45	0.2004	1.2603	52.606	11/5/20 16:39
+Zak- WA - Manistee Post Roots	Plot 46	0.2013	1.2356	52.184	11/5/20 16:45
+Zak- WA - Manistee Post Roots	Plot 47	0.2016	1.2513	53.527	11/5/20 16:50
+Zak- WA - Manistee Post Roots	Plot 48	0.2014	1.2072	51.367	11/5/20 16:56
+Zak- WA - Manistee Post Roots	Plot 49	0.2011	1.7675	51.507	11/5/20 17:01
+Zak- WA - Manistee Post Roots	Plot 50	0.2004	1.7716	51.549	11/5/20 17:06
+Zak- WA - Manistee Post Roots	Plot 51	0.2018	1.8167	51.495	11/12/20 11:01
+Zak- WA - Manistee Post Roots	Plot 52	0.2011	1.8022	51.058	11/12/20 11:06
+Zak- WA - Manistee Post Roots	Plot 53	0.2008	1.7339	50.609	11/12/20 11:12
+Zak- WA - Manistee Post Roots	Plot 54	0.2032	1.7742	51.514	11/12/20 11:17
+Zak- WA - Manistee Post Roots	Plot 55	0.2012	1.1102	52.041	11/12/20 11:23
+Zak- WA - Manistee Post Roots	Plot 56	0.2004	1.1193	53.115	11/12/20 11:28
+Zak- WA - Manistee Post Roots	Plot 57	0.2011	1.061	53.856	11/12/20 11:34
+Zak- WA - Manistee Post Roots	Plot 58	0.2005	1.094	53.385	11/12/20 11:39
+Zak- WA - Manistee Post Roots	Plot 59	0.202	1.0515	54.004	11/12/20 11:45
+Zak- WA - Manistee Post Roots	Plot 60	0.2012	1.1244	53.023	11/12/20 11:51
+Blank		1	0.0399	0.1831	11/12/20 11:56
+Zak- WA - Manistee Post Roots	Plot 61	0.2015	1.3001	53.324	11/12/20 12:02
+Zak- WA - Manistee Post Roots	Plot 62	0.2016	1.3214	53.181	11/12/20 12:07
+Zak- WA - Manistee Post Roots	Plot 63	0.201	1.2881	53.077	11/12/20 12:13
+Zak- WA - Manistee Post Roots	Plot 64	0.2014	1.3475	53.408	11/12/20 12:18
+Zak- WA - Manistee Post Roots	Plot 65	0.201	1.3084	51.888	11/12/20 12:24
+Zak- WA - Manistee Post Roots	Plot 66	0.2015	1.3274	52.281	11/12/20 12:29
+Zak- WA - Manistee Post Roots	Plot 67	0.2019	1.6488	50.554	11/12/20 12:35
+Zak- WA - Manistee Post Roots	Plot 68	0.2004	1.62	49.309	11/12/20 12:40
+Zak- WA - Manistee Post Roots	Plot 69	0.2005	1.4873	50.089	11/12/20 12:46
+Zak- WA - Manistee Post Roots	Plot 70	0.2017	1.7251	50.799	11/12/20 12:51
+orchard leaves - lot 1000		0.2002	2.3035	49.816	11/12/20 12:57
+Zak- WA - Manistee Post Roots	Plot 71	0.2005	1.6116	50.9	11/12/20 13:02
+Zak- WA - Manistee Post Roots	Plot 72	0.2012	1.6739	50.348	11/12/20 13:08

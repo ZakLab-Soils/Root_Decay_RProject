@@ -1,0 +1,24 @@
+cazyme	substrate
+AA14	Hemicellulose
+CBM1	Cellulose
+CE5	Hemicellulose and cutin
+GH105	Pectin
+GH2	Cellulose and hemicellulose
+GH26	Hemicellulose
+GH3	Cellulose and hemicellulose
+GH30_7	Hemicellulose
+GH35	Hemicellulose
+GH39	Cellulose and hemicellulose
+GH43	Hemicellulose
+GH5_5	Cellulose
+GH5_7	Hemicellulose
+GH53	Hemicellulose
+GH54	Hemicellulose
+GH62	Hemicellulose
+GH67	Hemicellulose
+GH7	Cellulose and hemicellulose
+GH74	Cellulose and hemicellulose
+GH78	Hemicellulose
+GH93	Hemicellulose
+PL1	Pectin
+PL4	Pectin

@@ -1,0 +1,112 @@
+Annotations/Genomes	Lactsubd1	Annotation Description
+CAZy	338	CAZy
+AA	67	Auxiliary Activities family
+AA1	13	Auxiliary Activity Family 1
+AA1_1	10	Auxiliary Activity Family 1 / Subf 1
+AA1_2	1	Auxiliary Activity Family 1 / Subf 2
+AA2	2	Auxiliary Activity Family 2
+AA2_dist	1	Class II peroxidase
+AA3	29	Auxiliary Activity Family 3
+AA3_2	15	Auxiliary Activity Family 3 / Subf 2
+AA3_3	14	Auxiliary Activity Family 3 / Subf 3
+AA5	11	Auxiliary Activity Family 5
+AA5_1	11	Auxiliary Activity Family 5 / Subf 1
+AA6	1	Auxiliary Activity Family 6
+AA7		Auxiliary Activity Family 7
+AA7_dist		Glucooligosaccharide oxidase
+AA9	10	Auxiliary Activity Family 9
+AA14	1	Auxiliary Activity Family 14
+CBM	37	Carbohydrate-Binding Module family
+CBM1	2	Carbohydrate-Binding Module Family 1
+CBM5		Carbohydrate-Binding Module Family 5
+CBM12	2	Carbohydrate-Binding Module Family 12
+CBM13	13	Carbohydrate-Binding Module Family 13
+CBM18	1	Carbohydrate-Binding Module Family 18
+CBM20	5	Carbohydrate-Binding Module Family 20
+CBM21	4	Carbohydrate-Binding Module Family 21
+CBM43	1	Carbohydrate-Binding Module Family 43
+CBM48	1	Carbohydrate-Binding Module Family 48
+CBM50	8	Carbohydrate-Binding Module Family 50
+CE	11	Carbohydrate Esterase family
+CE4	8	Carbohydrate Esterase Family 4
+CE9	2	Carbohydrate Esterase Family 9
+CE16	1	Carbohydrate Esterase Family 16
+EXPN	26	Distantly related to plant expansins
+GH	126	Glycoside Hydrolase family
+GH2	1	Glycoside Hydrolase Family 2
+GH3	3	Glycoside Hydrolase Family 3
+GH5	17	Glycoside Hydrolase Family 5
+GH5_9	6	Glycoside Hydrolase Family 5 / Subf 9
+GH5_12	4	Glycoside Hydrolase Family 5 / Subf 12
+GH5_15	2	Glycoside Hydrolase Family 5 / Subf 15
+GH5_30	4	Glycoside Hydrolase Family 5 / Subf 30
+GH5_dist	1	Glycoside Hydrolase Family 5
+GH9	1	Glycoside Hydrolase Family 9
+GH13	9	Glycoside Hydrolase Family 13
+GH13_1	2	Glycoside Hydrolase Family 13 / Subf 1
+GH13_5	1	Glycoside Hydrolase Family 13 / Subf 5
+GH13_8	1	Glycoside Hydrolase Family 13 / Subf 8
+GH13_22	1	Glycoside Hydrolase Family 13 / Subf 22
+GH13_25	1	Glycoside Hydrolase Family 13 / Subf 25
+GH13_32	3	Glycoside Hydrolase Family 13 / Subf 32
+GH15	17	Glycoside Hydrolase Family 15
+GH16	17	Glycoside Hydrolase Family 16
+GH17	2	Glycoside Hydrolase Family 17
+GH18	9	Glycoside Hydrolase Family 18
+GH20	2	Glycoside Hydrolase Family 20
+GH23	1	Glycoside Hydrolase Family 23
+GH25	5	Glycoside Hydrolase Family 25
+GH27	2	Glycoside Hydrolase Family 27
+GH31	3	Glycoside Hydrolase Family 31
+GH35	1	Glycoside Hydrolase Family 35
+GH37	2	Glycoside Hydrolase Family 37
+GH38	1	Glycoside Hydrolase Family 38
+GH45	8	Glycoside Hydrolase Family 45
+GH47	5	Glycoside Hydrolase Family 47
+GH63	1	Glycoside Hydrolase Family 63
+GH71	1	Glycoside Hydrolase Family 71
+GH72	1	Glycoside Hydrolase Family 72
+GH79	4	Glycoside Hydrolase Family 79
+GH85	1	Glycoside Hydrolase Family 85
+GH88	1	Glycoside Hydrolase Family 88
+GH92	5	Glycoside Hydrolase Family 92
+GH128	1	Glycoside Hydrolase Family 128
+GH131	2	Glycoside Hydrolase Family 131
+GH133	1	Glycoside Hydrolase Family 133
+GH152	2	Glycoside Hydrolase Family 152
+GT	63	Glycosyl Transferase family
+GT1	5	GlycosylTransferase Family 1
+GT2	11	GlycosylTransferase Family 2
+GT3	1	GlycosylTransferase Family 3
+GT4	5	GlycosylTransferase Family 4
+GT5	1	GlycosylTransferase Family 5
+GT8	5	GlycosylTransferase Family 8
+GT15	3	GlycosylTransferase Family 15
+GT20	2	GlycosylTransferase Family 20
+GT21	1	GlycosylTransferase Family 21
+GT22	6	GlycosylTransferase Family 22
+GT24	1	GlycosylTransferase Family 24
+GT31	1	GlycosylTransferase Family 31
+GT32	1	GlycosylTransferase Family 32
+GT33	1	GlycosylTransferase Family 33
+GT35	1	GlycosylTransferase Family 35
+GT39	4	GlycosylTransferase Family 39
+GT48	2	GlycosylTransferase Family 48
+GT49	1	GlycosylTransferase Family 49
+GT50	1	GlycosylTransferase Family 50
+GT57	2	GlycosylTransferase Family 57
+GT58	1	GlycosylTransferase Family 58
+GT59	1	GlycosylTransferase Family 59
+GT66	2	GlycosylTransferase Family 66
+GT69	2	GlycosylTransferase Family 69
+GT76	1	GlycosylTransferase Family 76
+GT90	1	GlycosylTransferase Family 90
+Myosin_motor	2	Glycosyltransferase Family 2
+PL38	2	Polysaccharide Lyase Family 38
+PL	4	Polysaccharide Lyase family
+PL8	1	Polysaccharide Lyase Family 8
+PL8_4	1	Polysaccharide Lyase Family 8 / Subf 4
+PL14	2	Polysaccharide Lyase Family 14
+PL14_3		Polysaccharide Lyase Family 14 / Subf 3
+PL14_5	1	Polysaccharide Lyase Family 14 / Subf 5
+PL35	1	Polysaccharide Lyase Family 35

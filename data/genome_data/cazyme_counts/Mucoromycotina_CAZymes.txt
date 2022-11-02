@@ -1,0 +1,180 @@
+Annotations/Genomes	Abscae1	Absrep1	Amyrou1	Bacci1	Benpoi1	Bifad1	Blatri1	Blatri_F921_1	Blatri_F986_2	Chabre1	Chlpad1	Chocucu1	Cirumb1	Cokrec1	Cunech1	Dicele1	Dicrob1	Ellano2	Endsp1	Fenlin1	FenlinCB54_1	Gilper1	Gonbut1	Halrad1	Helpul1	Hesve2finisherSC	Jimfl_AD_1	Jimfl_GMNB39_1	Jimlac1	Kircor1	Lenpar1	Lenzyc1	Liccor1	Lichy1	Licra1	Mucam1	Mucci2	Muccir1_3	Muccirc1	Mucend1	Mucfus1	Muclan1	Mucmuc1	Mucrac1	Mycafr1	Mycind1	Parpar1	Phaart1	Phybl2	PhyblU21_2	Phybl_L51_1	Phybla1	Pilano1	Pilumb1	PnitS607_1	PnitS608_1	PnitS609_1	Radspe1	Rhich1	Rhimi1_1	Rhimi_ATCC11559_1	Rhimi_ATCC52814_1	Rhior3	Rhisto1	Sakvas1	Spifus1	Spoumb1	Synrac1	Thaele1	Umban1	Umbelo1	Umbisa1	Umbra1	Umbsp_AD052_1	Zycmex1	Zyghet1	Annotation Description
+CAZy	382	380	427	517	338		319	328	327	312	367	320	335	297	286	333	348	375	274	346	370	342	332	284	358	289	337	336	355	520	270	271	353	362			339	368					363		289	317	331	348	279	312	313	299	327	268	293	287	286	293	565	312	302	311	410	408		244	309	317	350	429	425	404	413	399	349	402	CAZy
+AA	16	16	12	20	16		14	13	15	14	13	12	16	13	12	14	15	20	18	16	19	16	15	11	15	16	19	19	16	24	16	14	14	15			18	15					17		11	16	14	18	10	12	14	12	14	6	10	10	10	16	23	11	11	11	13	13		12	12	12	15	20	22	16	17	18	21	21	Auxiliary Activities family
+AA1	7	8	5	8	7		6	6	6	5	7	6	8	6	7	8	8	6	7	11	12	8	7	4	7	7	5	5	5	9	7	7	7	8			7	6					7		5	6	5	11	5	5	5	5	6	2	5	5	5	6	7	4	5	4	5	5		5	4	7	7	5	6	5	5	5	14	9	Auxiliary Activity Family 1
+AA1_2	2	2	1	4	4		2	2	2	2	2	2	2	3	4	2	2	3		4	4	3	2	1	3	2	1	2	2	6	1	1	3	4			3	3					3		3	3	2	4	2	2	2	2	2		2	2	2	2	2	1	2	1	1	1		2	1	2	3	1	1	1	1	1	4	6	Auxiliary Activity Family 1 / Subf 2
+AA1_dist			1															1						1													2																							1																	Multicopper oxidase
+AA2	3									1								4			2										2	2														4				2	2													1						2	1						Auxiliary Activity Family 2
+AA2_dist	1																	3			1										1	2														3				1	1																			1							Class II peroxidase
+AA3			1	1	2		2	1	2	1		2						2	2			3			1		1	1	2	2							3	2					2		1	1	2						1					1	5	2	2	2	1	1			3		1	4	6	1	3	3		2	Auxiliary Activity Family 3
+AA3_2			1	1	2		2	1	2	1		2						2				3			1				1	2							3	2					2		1	1	2						1					1	3	2	2	2	1	1			3		1	4	6	1	3	3		2	Auxiliary Activity Family 3 / Subf 2
+AA3_dist																			2								1	1	1																																																GMC oxidoreductase
+AA5	2	2	2	2	2		2	2	3	2	2	2	2	2	1	1	1	2	6	2	2	2	1	2	2	1	5	4	5	3	1	1	1	1			3	2					4		1	1	2	2	1	1	1	1	2	1	1	1	1	2	5	2	2	2	2	2		1	2	1	2	3	3	2	2	3	2	2	Auxiliary Activity Family 5
+AA5_1	2	2	2	2	1		2	2	3	2	2	2	2	1	1	1	1	2	6	2	2	2	1	2	1	1	5	4	5	3	1	1	1	1			3	2					3		1	1	2	2	1	1	1	1	2	1	1	1	1	2	2	2	2	2	2	2		1	2	1	1	3	3	2	2	3	2	1	Auxiliary Activity Family 5 / Subf 1
+AA6	4	6	4	9	5		4	4	4	5	4	2	6	5	4	5	6	6	3	3	3	3	5	5	5	8	6	7	4	10	5	4	6	6			5	5					4		4	4	5	5	4	4	4	4	5	3	4	4	4	7	6	3	2	3	5	4		6	3	4	5	5	5	5	5	5	5	7	Auxiliary Activity Family 6
+AA7																																																																								1					Auxiliary Activity Family 7
+AA7_dist																																																																								1					Glucooligosaccharide oxidase
+AA10																							1																																																						Auxiliary Activity Family 10
+AA11																											2	2																																																	Auxiliary Activity Family 11
+AA12																															1																				2	2																				1	1	1			Auxiliary Activity Family 12
+AA14																							1																																															1	1	1	1	1		1	Auxiliary Activity Family 14
+CBM	44	53	56	75	36		39	42	40	37	48	43	28	37	32	39	40	45	59	35	33	42	37	28	45	30	56	49	51	71	28	31	47	39			28	44					47		30	33	43	33	35	51	47	44	42	41	43	39	38	38	72	41	34	40	51	48		32	44	31	47	65	53	47	70	63	33	47	Carbohydrate-Binding Module family
+CBM1			3	3			3	3	3	2		3	3	1		3	3	2		3	3	2	1		2					2			2	2				2					2			1	2	3	1	1	1	1	2	1	1	1	1		5	3	2	3	3	2			1	1	2	8	7	1	7	7	3	2	Carbohydrate-Binding Module Family 1
+CBM3																																																																						1	1		1				Carbohydrate-Binding Module Family 3
+CBM5	5	6	3	7	4		1	3	3	3	5	4	2	3	2	4	2	4	1	2	2	3	5	3	4	3	6	2	7	4	2	3	2	1			3	4					3		3	3	3	2	2	3	2	2	3	3	2	2	2	2	6	3	3	3	3	2		2	3	2	4	2	2	3	2	2	2	3	Carbohydrate-Binding Module Family 5
+CBM12	2	2	2	2	1		1	1	1		2	1	2	1	1	2	2	1		2	2	1	1	1	1	1				2		1	2	2				1					2		1	1	1	2		1	1	1	1	1	1	1	1	1	2	1	1	1	2	2		1	2	1	1	1	1	1	1	1	2	1	Carbohydrate-Binding Module Family 12
+CBM13	19	24	28	31	15		18	18	16	21	19	18	11	15	14	13	18	20	18	15	15	18	10	12	18	11	16	15	23	31	16	14	22	19			11	19					18		12	13	20	14	15	25	24	20	18	22	22	18	20	15	33	20	16	18	24	21		16	21	12	20	11	12	12	11	11	14	22	Carbohydrate-Binding Module Family 13
+CBM14	1	1									1				1										1																																											2	3								Carbohydrate-Binding Module Family 14
+CBM18																			2								6	5																																																	Carbohydrate-Binding Module Family 18
+CBM19	2	2	2	4	2		2	2	2	1	2	2	1	2	2	2	1	3		1	1	4	6	2	4	3	1	1		3	1	2	1	1			1	3					2		2	2	3	1	1	2	1	2	2	1	1	1	1	3	7	4	1	3	3	3		4	3	1	4	3	3	3	3	3	1	4	Carbohydrate-Binding Module Family 19
+CBM20																																																																						1	1		1	1			Carbohydrate-Binding Module Family 20
+CBM21	3	4	8	11	4		5	5	5	4	3	5	3	5	2	5	5	6	2	3	3	5	2	2	5	2	3	2	2	10	3	3	5	4			6	6					10		4	5	5	3	4	6	5	5	5	5	4	5	5	5	8	5	5	5	8	6		2	6	4	5	6	6	5	5	6	3	5	Carbohydrate-Binding Module Family 21
+CBM32																1			1										1																																									1	1	1	1	1			Carbohydrate-Binding Module Family 32
+CBM35													1				1			1	1																											1																								1			1		Carbohydrate-Binding Module Family 35
+CBM43	2	2	1	1	1		1	1	1	1	3	1	1	1	2	2	2	1	1	1	1	1	2	2	1	2	1	1	1	1	2	2	2	2			1	1					1		1	1	1	1	2	2	2	2	1	1	2	2	2	2	2	1	1	1	2	2		1	2	1	1	2	2	2	2	2	1	1	Carbohydrate-Binding Module Family 43
+CBM48	4	4	3	6	4		3	3	3	3	4	3	2	3	3	2	2	4	3	3	3	3	4	3	4	4	4	5	4	7	3	3	3	2			4	4					4		3	3	4	2	3	3	3	3	5	3	4	3	3	4	4	1	2	2	2	4		3	2	2	4	4	5	5	5	5	2	3	Carbohydrate-Binding Module Family 48
+CBM50	6	8	6	10	5		5	6	6	2	9	6	2	6	5	5	4	4	31	4	2	5	6	3	5	4	18	17	12	11	1	3	8	6			2	4					5		4	4	4	4	7	8	8	8	5	4	6	6	3	6	5	3	3	4	4	6		3	4	5	3	24	11	11	30	23	4	6	Carbohydrate-Binding Module Family 50
+CBM52																																																																						1	1	1	1	1			Carbohydrate-Binding Module Family 52
+CBM63																											1	1	1																																																Carbohydrate-Binding Module Family 63
+CBM66																																																																								1					Carbohydrate-Binding Module Family 66
+CE	27	25	38	35	30		27	27	27	23	25	27	20	25	18	23	24	30	10	19	19	35	20	15	25	17	21	26	20	47	14	13	25	28			28	29					25		25	24	25	22	20	20	20	20	23	17	20	21	21	20	43	24	23	24	42	35		18	26	24	26	17	18	19	16	17	21	31	Carbohydrate Esterase family
+CE2																											3	3	3																																																Carbohydrate Esterase Family 2
+CE4	20	20	29	31	27		22	22	22	21	21	21	14	21	15	18	18	27	9	14	14	26	15	12	22	13	14	17	14	43	12	11	17	21			25	25					22		22	22	23	15	15	15	15	15	20	16	14	15	15	17	33	19	18	19	33	29		16	24	16	23	12	12	15	11	12	13	28	Carbohydrate Esterase Family 4
+CE8			7				3	3	3			4	2						1	1	1	6	2				3	5					2	2														1	4	4	4	4			5	5	5		6	3	3	3	6	5				3		3	3	2	3	3	1		Carbohydrate Esterase Family 8
+CE9	5	3	1	3	2		1	1	1	2	2	1	1	1	1	1	1	2		1	1	2	2	2	2	3	1	1	3	3	1	1	1	1			2	2					2		2	2	1	1	1	1	1	1	2	1	1	1	1	2	2	1	1	1	1	1		1	2	2	2	2	2	2	2	2	1	2	Carbohydrate Esterase Family 9
+CE14																																																																		1									1		Carbohydrate Esterase Family 14
+CE16	2	2	1	1	1		1	1	1		2	1	3	3	2	4	5	1		3	3	1	1	1	1	1				1	1	1	5	4			1	2					1		1		1	5					1					1	2	1	1	1	2					3	1		1				5	1	Carbohydrate Esterase Family 16
+EXPN	23	19	22	25	17		11	12	12	22	17	10	15	14	13	19	19	19	5	16	16	13	13	11	15	14	3	2	2	37	11	13	12	16			17	20					14		28	30	21	17	12	13	13	12	14	12	14	13	14	14	24	11	12	14	19	20		13	12	15	16	11	11	12	10	10	15	16	Distantly related to plant expansins
+GH	113	103	141	138	89		88	92	88	82	115	88	121	72	90	99	111	103	95	125	146	97	121	90	107	87	129	138	159	116	74	76	101	114			94	102					117		65	74	83	122	80	86	87	87	89	64	79	79	78	72	159	91	92	90	131	126		54	85	112	99	176	193	181	169	167	118	122	Glycoside Hydrolase family
+GH1																											1	3	1																																									2	3	3	2	2			Glycoside Hydrolase Family 1
+GH2																			1								2	3	3																																									1	1	2	1	1			Glycoside Hydrolase Family 2
+GH3	6	7	6	8	4		5	5	5	4	5	4	10	4	4	8	10	6	6	11	12	7	8	5	9	4	5	5	7	8	3	4	6	8			5	6					6		3	4	4	10	3	3	3	3	6	3	3	3	3	3	10	5	5	5	6	6		2	3	10	9	10	14	10	9	9	11	8	Glycoside Hydrolase Family 3
+GH5	11	11	7	7	6		6	6	6	5	11	5	10	5	7	7	7	8	7	9	10	6	12	8	5	8	10	6	9	7	5	5	6	9			7	7					5		4	6	5	8	6	6	6	6	6	3	6	6	6	5	8	5	5	5	7	7		3	6	6	6	14	14	13	13	11	7	8	Glycoside Hydrolase Family 5
+GH5_1																																																																						1	1		1	1			Glycoside Hydrolase Family 5 / Subf 1
+GH5_5																			1								1	2	3																																																Glycoside Hydrolase Family 5 / Subf 5
+GH5_7	1	1	1	1	1		1	1	1	1	2	1	5	1		2	2	2		4	4	1	4	1	1	1			1	1			1	3			2	2							1	1	1	3	1	1	1	1	1		1	1	1	1	2	1	1	1	1	1			1	1	1	3	3	2	3	3	2	1	Glycoside Hydrolase Family 5 / Subf 7
+GH5_9	3	5	4	3	2		2	1	1	2	4	1	2	2	2	2	2	2	2	2	3	3	4	2	2	3	1	2		2	2	2	2	2			2	2					2		1	2	2	2	2	2	2	2	2	1	2	2	2	1	3	2	2	2	4	4		1	3	2	2	4	4	4	4	3	2	3	Glycoside Hydrolase Family 5 / Subf 9
+GH5_12	3	2	2	2	2		2	2	2	2	3	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	5	1	4	3	2	2	1	2			2	2					2		2	3	2	2	2	2	2	2	3	2	2	2	2	3	3	2	2	2	2	2		2	2	2	2	2	2	2	2	1	2	2	Glycoside Hydrolase Family 5 / Subf 12
+GH5_27	1	1		1	1										2			1	1				1	1		1	1	1	1	1			1	1			1	1																															1	1	1	1	1	1		1	Glycoside Hydrolase Family 5 / Subf 27
+GH5_31																																																																								1					Glycoside Hydrolase Family 5 / Subf 31
+GH5_50	1	1									1		1		1	1	1	1		1	1		1	1		1					1	1	1	1														1	1	1	1	1			1	1	1											1		1	1	1	1	1	1	1	Glycoside Hydrolase Family 5 / Subf 50
+GH5_dist																			1								2																																																		Glycoside Hydrolase Family 5
+GH6																			1																																																			1	1		1	1			Glycoside Hydrolase Family 6
+GH8	4	1	1	1	2		1	2	1	2	3	1	1	2	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1			2	2					2		1	1	2	1	1	1	1	1	2	1	1	1	1	1	3	1	2	1	1	1		1	1	1	1	1	1	1	1	1	1	2	Glycoside Hydrolase Family 8
+GH9	3	3	4	7	3		2	2	2	3	3	2	3	2	3	3	3	4	5	3	3	3	2	2	4	2	7	7	7	4	3	3	4	4			4	4					3		4	4	5	3	2	2	2	2	3	3	2	2	2	4	6	3	3	3	5	4		1	3	3	4	4	4	3	4	4	3	5	Glycoside Hydrolase Family 9
+GH10																			1								1	1	1																																									1	1		1	1			Glycoside Hydrolase Family 10
+GH11																							1																																																						Glycoside Hydrolase Family 11
+GH12													5				2		1	1	1		1				1		1				1	1														4																				1		1	1	1	1	1	1		Glycoside Hydrolase Family 12
+GH13	2	2	3	5	2		2	2	2	2	2	2	3	2	3	4	3	2	8	3	3	2	5	2	2	3	6	8	6	4	2	2	5	4			2	2					2		2	2	2	3	2	2	2	2	2	2	2	2	2	2	6	2	3	3	4	4		2	2	3	2	6	7	5	7	6	3	2	Glycoside Hydrolase Family 13
+GH13_1			1										1		1	2	1		2	1	1		2			1	4	5	5				2	2														1											2	1	1	1	1	1				1		1	1	1	1	1	1		Glycoside Hydrolase Family 13 / Subf 1
+GH13_8	1	1	2	3	1		1	1	1	1	1	1	1	1	1	1	1	1		1	1	1	1	1	1	1	1	2		2	1	1	1	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	2		1	1	2	2		1	1	1	1	2	2	2	2	2	1	1	Glycoside Hydrolase Family 13 / Subf 8
+GH13_25	1	1		2	1		1	1	1	1	1	1	1	1	1	1	1	1	6	1	1	1	1	1	1	1	1	1	1	2	1	1	2	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1		1	1	1	1	1	1	1	1	1	1	1	Glycoside Hydrolase Family 13 / Subf 25
+GH13_40																																																																						1	2	1	2	1			Glycoside Hydrolase Family 13 / Subf 40
+GH13_m42																							1																																															1	1		1	1			Glycoside Hydrolase Family 13
+GH15	4	3	6	5	3		4	3	3	2	4	2	5	3	5	3	4	3	1	5	5	3	5	3	2	4	2	2	3	4	3	3	3	4			3	3					17		2	2	2	5	3	3	3	3	2	2	3	3	3	2	6	3	3	3	6	4		3	3	6	2	3	3	3	3	3	7	3	Glycoside Hydrolase Family 15
+GH16	8	6	11	12	9		7	7	7	7	8	7	6	5	7	6	7	8	3	6	6	8	5	6	6	7	9	7	9	10	5	5	6	7			8	8					7		4	4	7	6	5	5	5	5	6	7	5	5	4	7	15	8	8	8	8	8		3	6	7	7	13	13	19	13	13	6	7	Glycoside Hydrolase Family 16
+GH17	4	4	4	4	3		2	2	2	3	4	2	5	2	3	3	3	3		5	5	3	2	4	3	2	2	3	2	4	3	3	4	5			3	3					3		1	2	3	4	3	3	3	3	3	3	3	3	3	2	2	3	2	2	3	2		3	2	5	3	6	6	5	6	6	3	6	Glycoside Hydrolase Family 17
+GH18	13	14	14	21	12		11	11	12	12	13	14	11	10	12	12	13	14	18	12	13	17	16	11	14	13	26	23	26	20	13	14	11	12			15	15					11		9	8	13	12	8	9	9	9	11	10	9	8	9	10	20	11	12	11	14	14		10	15	13	14	13	14	14	14	14	12	18	Glycoside Hydrolase Family 18
+GH20	5	5	4	6	3		3	3	3	3	6	3	3	3	4	4	4	4	4	3	3	3	4	4	6	4	2	3	4	4	4	4	4	4			4	4					4		2	3	3	3	4	4	4	4	4	3	4	4	4	3	7	4	4	4	4	3		5	3	3	6	8	10	7	8	7	3	4	Glycoside Hydrolase Family 20
+GH24	1	1																	1				2	1		1	1	1																																										2	1	2	2	2			Glycoside Hydrolase Family 24
+GH25	2	2									1		4		2	1	1			5	3		2	1		1	1	1	1				1	1														4	1	1	1	1			1	1	1											1		2	2	1	2	2	2		Glycoside Hydrolase Family 25
+GH27	5	5	2	3	1			1	1	1	5	1	3	1	1	3	3	1	2	3	3	1	3	3	1	2	2	1	9	2			2	3			1	1					1		1	1	1	3	1	2	2	2	1	1	2	2	2	2	2	1	1	1	2	2		1	2	3	1	5	6	6	5	4	3		Glycoside Hydrolase Family 27
+GH28			18	5			6	6	5			5	6		1		2	2	1	6	6	2	2		6		7	8	3				3	5			2	2					7					8	10	9	9	9	2		8	8	8		7	7	6	7	18	20				8	5	3	4	3	3	3	6	6	Glycoside Hydrolase Family 28
+GH29	2	2		2	2		1	1	1	2	2	1	1	1	2	2	2	2		1	1	1	2	3	2	2				2	2	2	1	2			2	2					2		2	2	2	1					1					2										2	2	2	2	2	2	2	1	2	Glycoside Hydrolase Family 29
+GH30																												1																																																	Glycoside Hydrolase Family 30
+GH30_7																												1																																																	Glycoside Hydrolase Family 30 / Subf 7
+GH31	3	3	3	9	5		5	5	5	4	3	5	7	3	4	7	6	6	7	8	9	6	5	3	5	6	2	8	4	6	3	3	5	5			5	5					5		3	3	4	9	3	3	3	3	5	4	3	3	3	2	7	3	3	3	3	3		2	2	7	5	7	8	8	7	7	7	8	Glycoside Hydrolase Family 31
+GH32		1		1											1								1	1										2															1	1	1	1			1	1	1													2	2	1	2	2			Glycoside Hydrolase Family 32
+GH35	1	1	1	1	1		1	1	1	1	1	1	4	1	2	3	2	1	1	5	5	1	7	2	1	1	2	3	2	1	1	1	2	2			1	1					1		1	1	1	4	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1		1	1	3	1	6	6	4	6	6	6	1	Glycoside Hydrolase Family 35
+GH36	6	4	6	5	4		4	4	4	4	6	4	5	4	2	5	5	4	1	4	4	4	3	4	5	3	1	1	2	5	3	3	3	4			4	4					6		4	4	4	5	3	3	4	4	6	3	3	3	3	4	7	4	4	4	4	5		3	5	2	4	2	1	2	2	3	4	5	Glycoside Hydrolase Family 36
+GH37	6	6	5	5	5		4	4	4	4	6	4	5	5	4	6	6	5	2	5	5	4	4	4	5	4	1	3	2	5	4	3	5	5			5	5					5		4	4	5	5	4	4	4	4	4	3	4	4	3	5	6	3	3	3	5	4		3	4	4	5	4	4	3	4	4	4	6	Glycoside Hydrolase Family 37
+GH38	3	2	2	2	2		2	2	2	3	4	2	2	2	2	2	2	2	5	2	2	2	2	2	2	2	4	5	9	2	2	2	3	2			2	2					2		2	2	2	2	2	2	2	2	2	1	2	2	2	1	5	2	2	2	2	2		2	2	2	2	2	4	2	2	2	2	2	Glycoside Hydrolase Family 38
+GH42																											1																																																		Glycoside Hydrolase Family 42
+GH43			2	1			1	1	1				4			1	2		2	3	3		1				2	4	1				2	3														4															2	1			1	3		1	1	2	1	1	5		Glycoside Hydrolase Family 43
+GH45			5	2	1		3	3	3	1		3	2	1		2	2	1	1	3	4	3	1		2		1	1	2	2			1	1				1					3			1	1	2	1	1	1	1	2	1	1	1	1		9	5	5	4	5	4			1	1	2	3	2	2	2	3	2	3	Glycoside Hydrolase Family 45
+GH46	2	4	2	2	2		2	2	1	2	2	2	1	2	1	1	1	2	2	2	2	2	1	1	2	1	5	4	3	4	2	2	3	2			2	2					2		2	2	2	2	1	1	1	1	3	1	1	1	1	1	4	2	2	2	2	1			1	2	2	2	2	2	2	2	2	2	Glycoside Hydrolase Family 46
+GH47	5	6	10	11	7		8	8	8	6	5	8	5	7	5	7	8	9	3	7	7	7	4	4	9	4	7	10	14	13	4	5	6	6			7	8					9		6	7	7	5	7	7	7	7	8	6	6	7	7	7	12	7	8	8	11	11		4	9	7	8	6	6	6	6	6	6	10	Glycoside Hydrolase Family 47
+GH48																																																																						1	1		1	1			Glycoside Hydrolase Family 48
+GH51													2				1			2	2		1										2	2														2	1	1	1	1			1	1	1											3		1	1	1	1	1	3		Glycoside Hydrolase Family 51
+GH52																																																																						1	1	1	1	1			Glycoside Hydrolase Family 52
+GH53																			1				1	1																																														1	1	1	1	1			Glycoside Hydrolase Family 53
+GH55	1	1									1				1								2	1		2																																												3	4	3	3	3			Glycoside Hydrolase Family 55
+GH62																							2																																																						Glycoside Hydrolase Family 62
+GH63	1	1	1	3	1		1	1	1	1	1	1	1	1	1	1	1	1		1	1	1	1	1	1	1	1		2	1	1	1	1	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1		1	1	1	1	1	1	1	1	1	1	1	Glycoside Hydrolase Family 63
+GH65																																																																						1	1	1	1	1			Glycoside Hydrolase Family 65
+GH67																																																																							1	1					Glycoside Hydrolase Family 67
+GH71																			1								2		4																																									1	1	3	1	1			Glycoside Hydrolase Family 71
+GH72	3	2	1	1	1		1	1	1	1	3	1	1	1	3	2	2	1	1	1	1	1	2	2	1	3	1	1	1	1	2	2	2	2			1	1					1		1	1	1	1	2	2	2	2	1	1	2	2	2	2	2	1	1	1	2	2		1	2	1	1	2	2	2	2	2	1	1	Glycoside Hydrolase Family 72
+GH74																											1		4																																									1	1		1	1			Glycoside Hydrolase Family 74
+GH76																																																																								1					Glycoside Hydrolase Family 76
+GH78																				1	1																																																	1	1	4	1	1	1		Glycoside Hydrolase Family 78
+GH79													1						1	1	1												1	1														1																						5	4	5	4	3	1		Glycoside Hydrolase Family 79
+GH81	1	2	2	3	2		1	1		1	1	1	2	1	2	1	2	1	1	1	1	1	3	1	2	1	2	2	4	1	1	1	1	2			1	1					1		1	2	2	1	1	1	1	1	1	1	1	1	1	1	3	1	1	1	1	1		1	3	1	1	3	4	2	2	2	1	2	Glycoside Hydrolase Family 81
+GH85	1	1	1	1	1		1	1	1	1	1	1		1	1			1				1	1	1	1			1	1	1							1	1					1		2	1	1						1	1				1					1						1	1	1	1	1	1		1	Glycoside Hydrolase Family 85
+GH88															1								1			1	1	1	2					1																																				3	5	2	4	3			Glycoside Hydrolase Family 88
+GH89																											1																																													1					Glycoside Hydrolase Family 89
+GH92																			1								1	1	3																																									3	3	3	3	3			Glycoside Hydrolase Family 92
+GH93																																																																						1	1	2	1	1			Glycoside Hydrolase Family 93
+GH95																											1	1	1																																									3	2	1	2	1			Glycoside Hydrolase Family 95
+GH105				1									1			1	1			1	1												3	1														1																				1		1	1	1	1	1	1		Glycoside Hydrolase Family 105
+GH125	2	2	2	2	2		2	3	3	2	2	2	1	2	2	1	1	2	1	3	2	2	2	3	3	2	1	2	1	2	2	2	1	1			2	2					2		2	2	2	1	2	2	2	2	2	1	2	2	2	2	2	2	2	2	2	2		1	3	1	2	2	2	3	2	2	1	3	Glycoside Hydrolase Family 125
+GH130																																																																							1						Glycoside Hydrolase Family 130
+GH133	1	1	1	2	1		1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	2	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1		1	1	1	1	1	1	1	1	1	1	1	Glycoside Hydrolase Family 133
+GH134			11								11				2			2				3			1												3	3					3										2						5	5	4	4	9	7					1							5	Glycoside Hydrolase Family 134
+GH136																							1																																																	2					Glycoside Hydrolase Family 136
+GH151																			1								1	2																																																	Glycoside Hydrolase Family 151
+GH152	7		6		4		1	3	2	4		3					3	5	1		19	1		4	5		3	3	3		4	4						5					4			3				5	5	5												5			3			4	3	3		4			Glycoside Hydrolase Family 152
+GH154																							1			1																																												2	5	3	2	2			Glycoside Hydrolase Family 154
+GT109																																																																						1							GlycosylTransferase Family 109
+GT	142	151	145	205	138		127	128	131	123	135	126	125	125	112	128	128	143	84	126	125	125	114	118	139	114	102	96	101	205	111	111	142	136			144	145					129		118	125	132	125	111	115	117	112	132	117	115	114	113	124	221	121	117	119	140	149		98	119	115	134	117	114	117	117	112	130	152	Glycosyl Transferase family
+GT1	11	10	15	27	12		13	12	12	8	10	12	6	8	7	4	4	15	6	4	4	9	7	8	15	6	5	8	9	26	8	8	10	10			15	14					15		10	11	11	6	6	6	6	6	9	7	6	7	7	6	19	12	9	11	15	12		6	7	4	14	8	7	9	8	8	10	14	GlycosylTransferase Family 1
+GT2	42	40	34	43	25		27	26	27	29	41	29	29	26	28	32	32	29	17	29	29	28	26	28	30	26	20	17	20	44	30	30	30	30			30	29					27		23	23	29	29	29	29	30	29	30	24	28	29	30	28	52	28	27	27	34	35		27	31	27	29	27	28	27	27	24	28	31	GlycosylTransferase Family 2
+GT3	2	2	3	4	2		2	3	3	2	2	1	1	2	1	1	1	2		1	1	2	2	1	2	2	1	1	1	3	2	2	3	1			2	2					2		1	2	2	1	2	2	2	2	2	2	1	1	1	2	4	2	2	2	3	3		2	3	1	2	1	1	1	1	1	1	2	GlycosylTransferase Family 3
+GT4	5	7	7	7	6		5	5	5	5	4	5	6	6	7	7	6	6	5	7	7	5	6	6	5	7	6	7	5	5	5	5	7	7			6	6					6		5	7	6	6	5	5	5	5	5	5	5	4	5	5	9	5	5	6	6	6		5	5	6	5	5	5	5	5	5	6	9	GlycosylTransferase Family 4
+GT5									1	1						2								1						3								1																	1	1	1									1											GlycosylTransferase Family 5
+GT8	2	2	5	6	3		3	5	4	3	2	3	3	4	2	3	3	2	4	3	3	3	2	2	4	2	4	3	3	5	2	2	3	3			4	3					3		3	3	4	3	3	3	3	2	3	2	3	3	3	3	7	4	3	3	4	5		2	2	2	3	3	3	4	4	3	4	3	GlycosylTransferase Family 8
+GT10	3	3	1	2	2		1	1	1	2	2	1	1	2	2	1	1	2	3	2	2	3	1	2	1	1	2	4	4	3	3	1	2	2			2	2					2		2	3	2	2	1	1	1	1	2		1	1	1		2	1	1	1	1	1			1	1	1						2	3	GlycosylTransferase Family 10
+GT15	8	11	16	24	17		13	13	13	13	8	10	16	14	6	13	14	16	5	18	17	12	9	8	14	9	8	8	6	22	7	7	16	16			15	18					13		12	13	14	15	12	12	12	11	13	13	12	12	12	15	23	12	12	12	15	17		10	13	15	14	10	11	12	11	11	14	14	GlycosylTransferase Family 15
+GT17	1	1	1		1		1	1	1		1	1						1				1		1	1						1	1					1	1					1						1	1	1	1	1	1	1	1	1	1					1	1		1	1		1	1	1	1	1	1		1	GlycosylTransferase Family 17
+GT20	9	8	10	10	10		7	7	7	7	8	7	7	8	6	8	7	8	4	7	7	6	6	6	7	6	4	5	3	10	5	5	8	7			8	8					7		8	8	7	7	7	7	7	7	7	7	7	7	6	7	13	7	7	7	10	10		7	6	7	7	5	5	6	5	5	7	8	GlycosylTransferase Family 20
+GT21	1	1	1	1	1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1		1		1	1	1	1	1	1	1	1	1	1	1	GlycosylTransferase Family 21
+GT22	5	4	4	5	5		4	4	6	4	5	5	5	5	5	5	5	5	4	4	5	4	4	5	5	4	4	2	6	4	4	5	5	4			4	4					4		4	5	4	5	4	6	5	5	4	5	5	4	3	5	8	4	5	5	4	4		4	4	4	5	4	4	4	4	4	5	5	GlycosylTransferase Family 22
+GT24	1	1	1	1	1		1	1		1	1		1	1	1	1	1	1		1	1		1	1	1	1	1	1	2	1	1	1	3	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1		1	1	1	1	1	1	1	1	1	1	1	GlycosylTransferase Family 24
+GT25																			1								3	1	3																																												1				GlycosylTransferase Family 25
+GT31	2	2	3	4	3		3	3	3	3	2	3	2	3	4	2	2	3	1	2	2	3	3	2	4	3	1	1	1	4	3	3	1	2			3	3					4		4	3	3	2	1	2	2	2	5	4	2	2	2	3	5	3	3	3	3	3		2	3	2	4	2	2	2	2	2	2	3	GlycosylTransferase Family 31
+GT32	1	2	2	2	2		2	2	2	2	2	2	2	2	2	2	2	1	2	2	1	2	2	2	2	2	3	2	1	2	2	2	3	2			2	2					2		2	1	2	2	1	1	1	2	2	2	2	2	2	2	3	2	2	2	2	1		2	2	2	2	1	2	3	1	1	2	2	GlycosylTransferase Family 32
+GT33	1	1	1	1	1		1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	2	1	1	1	1			1	1					1		1	1	1	1	1	1	1	1	2	1	1	1	1	1	2	1	1	1	1	1		1	1	1	1	1	1	1	1	1	2	1	GlycosylTransferase Family 33
+GT34	2	2	2	2	2		2	2	2	1	2	2	3	1	1	4	3	2	1	3	3	2	1	2	2	1	3	1	1	3	1	1	3	3			2	2					1		1	1	1	3	2	2	2	2	2	2	2	2	2	2	2	1	1	1	2	2		2	2	1	2	1	1	1	1	1	3	2	GlycosylTransferase Family 34
+GT35	2	1	2	3	2		2	2	2	1	2	2		2	1			2	4			2	2	1	2	2			2	3	1	1					2	2					1		1	1	2						2	2				2	4	2	2	2	2	2			1		2	1	1	1	1	1		2	GlycosylTransferase Family 35
+GT39	6	8	7	14	9		8	8	8	7	5	8	9	7	5	6	9	9	1	8	9	9	7	7	9	7	8	3	5	13	9	7	8	6			8	8					7		6	7	8	8	7	8	8	7	8	8	9	7	7	7	13	6	6	6	8	8		6	9	8	8	8	7	8	7	7	10	8	GlycosylTransferase Family 39
+GT41	2	2	1	1	2		1	1	1	2	2	1	1	1	2	1	1	1	1	1	1	1	1	2	1	1	2	1	1	1		1	1	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	2	2	1	1	1	1	1		1	1	1	1	1	1	1	1	1	1	1	GlycosylTransferase Family 41
+GT47	1		1	1	1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1		1	1	2	1	1	1	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1			1	1	1	1	1	1	1	1		1	GlycosylTransferase Family 47
+GT48	2	2	3	4	3		2	2	2	3	2	2	3	3	3	3	3	3	2	3	3	3	3	3	3	3	2	3	1	3	2	3	3	3			3	3					3		3	3	3	4	3	3	5	3	3	3	4	4	3	3	3	2	2	2	4	2		1	2	3	3	3	3	3	3	3	3	3	GlycosylTransferase Family 48
+GT49	10	14	9	14	9		8	7	8	8	10	9	6	9	8	9	10	9	3	7	7	9	7	8	9	7	3	2	4	16	6	6	11	11			9	9					9		9	9	10	7	7	7	7	7	9	9	7	7	7	7	13	8	8	8	9	11		6	10	6	9	7	7	7	7	6	7	9	GlycosylTransferase Family 49
+GT50	1	1		1	1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1			1	1					1			1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1		1	1	1	1	1	1	1	1	1	1	1	GlycosylTransferase Family 50
+GT57	2	3	2	2	2		2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	3	3	5	2	2	2	2	2			2	2					2		2	2	2	2	2	2	2	2	2	2	2	2	2	2	3	2	2	2	2	2		2	2	2	2	2	2	2	2	2	2	2	GlycosylTransferase Family 57
+GT58	1	2	1	1	1		2	2	2	2	1	2	1	1	1	1		1	1	1	1	1	1	1	2	1	3	2		2	2	1	1	1			1	1					1		1	1	1	1	1	1	1	1	2	1	1	1	1	1	2	1	1	1	1	2		1	1	1	1	1	1	1	1	1	1	4	GlycosylTransferase Family 58
+GT59	1	1	1	1	1			1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1		1		1	1	1	1	1	1		1	1	1	1	GlycosylTransferase Family 59
+GT60																			1																																																			1	1		1	1			GlycosylTransferase Family 60
+GT61																			1							1		1																																																	GlycosylTransferase Family 61
+GT62	10	9	4	7	4		5	5	5	5	7	5	5	3	7	7	8	5	1	5	5	5	6	6	4	6	2	3	3	7	3	5	5	7			6	6					3		4	4	5	5	2	2	2	2	4	3	2	2	2	4	4	2	2	2	2	4			2	7	4	5	5	5	4	5	5	5	GlycosylTransferase Family 62
+GT64			1	2	2		2	2	2	1		3	1	2				2	1	2	1	1			1		1	1	1	4			1	1			2	2					1		2	2	2	1	1	1	1	1			1	1	1	2	3	2	2	1	1	2		1	1		1	1	1	1	1	1	2	2	GlycosylTransferase Family 64
+GT66	1	2	1	1	1		1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	3	1	1	1	1	1	1			1	1					1		1	1	1	1	1	1	1	1	1	1	1	1	1	1	3	1	1	1	1	1		1	1	1	1	1	1	1	1	1	1	1	GlycosylTransferase Family 66
+GT69	1										1		1			1	1		1		1		1	1		1	1	1	1				1	1														1	1	1	1	1			1	1	1	1								1		1							1		GlycosylTransferase Family 69
+GT71	2	2	3	7	3		3	3	3	2	3	2	2	3	1	2	3	5		2	2	3	3	2	4	3				6	2	2	4	3			5	5					4		3	3	3	2	3	3	3	3	5	3	2	3	3	3	6	3	3	3	3	4			2	2	4	6	3	3	5	5	2	7	GlycosylTransferase Family 71
+GT76	1	1	1	1	1		1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1			1	1							1	1	1	1	1	1	1	1	1	1	1	1	1	1		1	1	1		1		1	1	1	1	1	1	1	1	1	1	2	GlycosylTransferase Family 76
+GT77	3	6	2	6	3		2	2	2	2	3	2	4	3	3	3	3	4	3	4	4	2	4	3	2	3	5	5	5	4	3	3	4	5			3	3					3		4	4	2	4	1	1	1	1	2	3	1	1	1	3	6	3	3	3	2	3		1		4	2	5	4	3	5	5	4	3	GlycosylTransferase Family 77
+GT90																			2																																																										GlycosylTransferase Family 90
+Myosin_motor	10	9	8	11	8		8	9	8	8	10	9	6	8	6	8	8	9	1	6	6	9	7	7	9	7	1	2	1	13	9	8	6	7			6	9					9		7	7	9	6	7	8	8	8	9	7	8	7	8	7	16	9	9	9	8	10		7	6	6	9	4	4	4	4	4	6	9	Glycosyltransferase Family 2
+PL33_2																																																																						1	2	1	1	1			Polysaccharide Lyase Family 33 / Subf 2
+PL38	1																	1			2																									1				1	1													1						8							Polysaccharide Lyase Family 38
+PL38_dist	2																	1			1										2	1														1				2	2																			1							
+PL	4	4	5	8	4		5	5	6	3	4	5	4	3	3	3	3	4	2	3	3	5	5	4	3	4	6	4	5	7	5	4	6	7			4	4					5		5	6	4	5	4	4	4	4	4	4	4	4	4	2	7	4	4	4	6	6		10	5	2	4	8	8	7	9	7	5	4	Polysaccharide Lyase family
+PL1																											3	1	2																																																Polysaccharide Lyase Family 1
+PL1_4																											1		1																																																Polysaccharide Lyase Family 1 / Subf 4
+PL6																													1																																																Polysaccharide Lyase Family 6
+PL8	1	1	1	4	3		3	3	4	1	1	3		2	1			2				3	2	1	2	1				3	2	2					2	2					3		2	3	2		1	1	1	1	2	2	1	1	1		1	1	1	1	1	1		1	1		2	3	3	3	3	2		2	Polysaccharide Lyase Family 8
+PL8_4	1	1	1	4	3		3	3	4	1	1	3		2	1			2				3	2	1	2	1				3	2	2					2	2					3		2	3	2		1	1	1	1	2	2	1	1	1		1	1	1	1	1	1		1	1		2	2	2	2	2	1		2	Polysaccharide Lyase Family 8 / Subf 4
+PL14	3	3	4	4	1		2	2	2	2	3	2	4	1	2	3	3	2	2	3	3	2	3	3	1	3	3	3	2	4	3	2	6	7			2	2					2		3	3	2	5	3	3	3	3	2	2	3	3	3	2	6	3	3	3	5	5		9	4	2	2	5	5	4	6	5	5	2	Polysaccharide Lyase Family 14
+PL14_3	1		4	1						1	1	1	4		1	3	3		1	3	3	1	3	2	1	3	3	2	2	2	2	1	2	3											3	2		5	2	3	3	3	1	1	1	2	1	1	3	2	2	2	5	5		6	4	2		2	2			1	4	2	Polysaccharide Lyase Family 14 / Subf 3
+PL14_4																																																																							1						Polysaccharide Lyase Family 14 / Subf 4

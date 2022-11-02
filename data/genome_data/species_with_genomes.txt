@@ -1,0 +1,279 @@
+genus	species	mycocosm_species_name	mycocosm_species_code	assembly_length	total_gene_number
+Mycena	albidolilacea	Mycena albidolilacea CBHHK002 v1.0	Mycalb1	126717228	36941
+Mycena	alexandri	Mycena alexandri CBHHK200 v1.0	Mycale1	132306732	32245
+Mycena	amicta	Mycena amicta BAPX v1.0	Mycami1	81431410	25102
+Mycena	belliae	Mycena belliae CBHHK173m v1.0	Mycbel1	56444626	18074
+Mycena	capillaripes	Mycena capillaripes Frankland 9286 v1.0	Mycrub1	119906144	37256
+Mycena	crocata	Mycena crocata CBHHK184 v1.0	Myccro1	93990387	30221
+Mycena	epipterygia	Mycena epipterygia CBHHK145m v1.0	Mycepi1	118648059	37563
+Mycena	filopes	Mycena filopes CBHHK001 v1.0	Mycfil1	112004863	29152
+Mycena	floridula	Mycena floridula CBHHK072 v1.0	Mycflo1	118533562	29475
+Mycena	galericulata	Mycena galericulata CBHHK162m v1.0	Mycgale1	197139282	46875
+Mycena	galopus	Mycena galopus ATCC-62051 v1.0	Mycgal1	211361780	49694
+Mycena	haematopus	Mycena haematopus CBHHK189 v1.0	Mychae1	62806267	20804
+Mycena	latifolia	Mycena latifolia 10383 v1.0	Myclat1	148767387	37452
+Mycena	leptocephala	Mycena leptocephala CBHHK5/15 v1.0	Myclep1	377319499	75907
+Mycena	maculata	Mycena maculata CBHHK188m v1.0	Mycmac1	104056733	25815
+Mycena	metata	Mycena metata CBHHK182m v1.0	Mycmet1	164113792	41473
+Mycena	olivaceomarginata	Mycena olivaceomarginata CBHHK47/15 v1.0	Mycoli1	501225342	97030
+Mycena	polygramma	Mycena polygramma CBHHK137 v1.0	Mycpol1	132253541	39088
+Mycena	pura	Mycena pura 9144 v1.0	Mycpur1	96680276	28619
+Mycena	rebaudengoi	Mycena rebaudengoi CBHHK068 v1.0	Mycreb1	218590756	52308
+Mycena	rosella	Mycena rosella CBHHK067 v1.0	Mycros1	129492142	34060
+Mycena	sanguinolenta	Mycena sanguinolenta CBHHK176m v1.0	Mycsan1	115408990	34875
+Mycena	sp.	Mycena sp. CBHHK59/15 v1.0	Myc59_1	177780440	38334
+Mycena	vitilis	Mycena vitilis CBHHK169m v1.0	Mycvit1	83665095	27952
+Mycena	vulgaris	Mycena vulgaris CBHHK164 v1.0	Mycvul1	193677039	45257
+Umbelopsis	angularis	Umbelopsis angularis P8C34 v1.0	Umban1	24439702	9529
+Umbelopsis	isabellina	Umbelopsis isabellina AD026 v1.0	Umbisa1	21826060	9193
+Umbelopsis	ramanniana	Umbelopsis ramanniana AG v1.0	Umbra1	23077072	9931
+Umbelopsis	sp. nov.	Umbelopsis sp. nov. AD052 v1.0	Umbsp_AD052_1	22504321	9369
+Umbelopsis	sp_PMI	Umbelopsis sp. PMI123 v1.0	Umbelo1	24636683	9672
+Piloderma	byssinum	Piloderma byssinum 4S31 v1.0	Pilbys1	94846070	22629
+Piloderma	olivaceum	Piloderma olivaceum F 1598 v1.0	Pilcr1	59326866	21583
+Piloderma	sphaerosporum	Piloderma sphaerosporum 354 v1.0	Pilsph1	71854530	20118
+Russula	brevipes	Russula brevipes BPL707 v1.0	Rusbre1	48529157	14000
+Russula	compacta	Russula compacta BPL669 v1.0	Ruscom1	45678814	10834
+Russula	dissimulans	Russula dissimulans BPL704 v1.0	Rusdis1	44689478	11865
+Russula	earlei	Russula earlei BPL698 v1.0	Rusear1	70012961	12153
+Russula	emetica	Russula emetica P_ilba v1.0	Ruseme1	55121418	13215
+Russula	ochroleuca	Russula ochroleuca P_ilba v1.0	Rusoch1	44738512	12048
+Russula	rugulosa	Russula rugulosa BPL654 v1.0	Rusrug1	43452339	13281
+Russula	seminuda	Russula seminuda PSC4341-TAS1 v1.0	Russem1	42095537	10669
+Russula	vinacea	Russula vinacea BPL710 v1.0	Rusvin1	43280073	12673
+Solicoccozyma	NA	NA	NA	NA	NA
+Trechispora	NA	NA	NA	NA	NA
+Gymnopus	androsaceus	Gymnopus androsaceus JB14 v1.0	Gyman1	89149538	29375
+Gymnopus	earleae	Gymnopus earleae GB-263.02 v1.0	Gymear1	91673264	25530
+Gymnopus	luxurians	Gymnopus luxurians v1.0	Gymlu1	66281680	22057
+Mortierella	alpina AD266	Mortierella alpina AD266 v1.0	Moralp1_1	39727328	12145
+Mortierella	alpina KOD1005	Mortierella alpina KOD1005 v1.0	Moramoe1	37623140	11816
+Mortierella	ambigua	Mortierella ambigua NRRL 28271 v1.0	Moramb1	39110494	10759
+Mortierella	capitata	Mortierella capitata AV005 v1.0	Morcap1	35512539	10395
+Mortierella	elongata AG-77	Mortierella elongata AG-77 v2.0	Morel2	49863165	14969
+Mortierella	elongata MPI	Mortierella elongata MPI-CAGE-AA-0104 v1.0	Morel_U14_1	50910406	14234
+Mortierella	elongata NVP64	Mortierella elongata NVP64 v1.0	MoeNVP64_1	51153770	13739
+Mortierella	gamsii	Mortierella gamsii AM1032 v1.0	Morgam1	57786961	14981
+Mortierella	humilis	Mortierella humilis PMI_1414 v1.0	Morhum1	36204870	12012
+Mortierella	minutissima AD051	Mortierella minutissima AD051 v1.0	Mormin1_1	42872265	13383
+Mortierella	multidivaricata	Mortierella multidivaricata RSA 2152 T v1.0	Mormul1	37665308	12248
+Mortierella	sp. AD185	Mortierella sp. AD185 v1.0	MorAD185_1_1	55628574	15422
+Mortierella	sp. GBAus27b	Mortierella sp. GBAus27b v1.0	MorGBAus27b_1	44971843	13953
+Mortierella	verticillata	Mortierella verticillata NRRL 6337	Morve1	41854149	12569
+Mortierella	wolfii	Mortierella wolfii NRRL 6351 v1.0	Morwol1	36602364	10038
+Lactarius	akahatsu	Lactarius akahatsu QP v1.0	Lacaka1	80299772	12853
+Lactarius	deliciosus	Lactarius deliciosus 48 v1.0	Lacdel1	96043985	18193
+Lactarius	hatsudake	Lactarius hatsudake 109 v1.0	Lachat1	95486030	16831
+Lactarius	hengduanensis	Lactarius hengduanensis 84 v1.0	Lachen1	61963203	15957
+Lactarius	indigo	Lactarius indigo 2018DUKE089 v1.0	Lacind1	90316074	16554
+Lactarius	psammicola	Lactarius psammicola BPL869 v1.0	Lacpsa1	69824043	13442
+Lactarius	pseudohatsudake	Lactarius pseudohatsudake 88 v1.0	Lacpse1	99708583	20824
+Lactarius	quietus	Lactarius quietus S23C v1.0	Lacqui1	115901997	18943
+Lactarius	sanguifluus	Lactarius sanguifluus B21 v1.0	Lacsan1	86240450	17481
+Lactarius	subdulcis	Lactarius subdulcis FM v1.0	Lactsubd1	110449813	14533
+Lactarius	vividus	Lactarius vividus 141 v1.0	Lacviv1	69041955	11612
+Laccaria	amethystina	Laccaria amethystina LaAM-08-1 v2.0	Lacam2	52581404	17553
+Laccaria	bicolor 81306	Laccaria bicolor 81306 v1.0	Lacbi81306_1	50950722	17791
+Laccaria	bicolor CBS 559.96	Laccaria bicolor CBS 559.96 v1.0	Lacbi55996_1	43460209	16977
+Laccaria	bicolor CBS 594.89	Laccaria bicolor CBS 594.89 v1.0	Lacbi59489_1	69983628	26800
+Laccaria	bicolor Cham3	Laccaria bicolor Cham3 v1.0	LacbiCham3_1	44650607	16084
+Laccaria	bicolor D101	Laccaria bicolor D101 v1.0	LacbiD101_1	70029479	22538
+Laccaria	bicolor DR170	Laccaria bicolor DR170 v1.0	LacbiDR170_1	79066865	24004
+Laccaria	bicolor N203	Laccaria bicolor N203 v1.0	LacbiN203_1	69628581	21909
+Laccaria	bicolor S238N 93.12	Laccaria bicolor S238N 93.12 v1.1	Lacbi9312_2	96432810	25412
+Laccaria	bicolor S238N	Laccaria bicolor S238N v1.0	LacbiS238N_1	67655267	21724
+Laccaria	bicolor S238N-H53	Laccaria bicolor S238N-H53 v1.0	LacbiH53_1	51780559	18468
+Laccaria	bicolor S238N-H70	Laccaria bicolor S238N-H70 v1.0	LacbiH70_1	57049857	19903
+Laccaria	bicolor S238N-H82	Laccaria bicolor S238N-H82 v1.0	LacbiH82_1	52023709	18706
+Laccaria	bicolor S238N-H82xH70	Laccaria bicolor S238N-H82xH70 v1.0	LacbiH82xH70_1	42115601	17045
+Laccaria	bicolor S238O	Laccaria bicolor S238O v1.0	LacbiS238O_1	57057526	17767
+Amanita	muscaria Koide	Amanita muscaria Koide v1.0	Amamu1	40699759	18153
+Amanita	muscaria var. formosa	Amanita muscaria var. formosa 2016PMI152 v1.0	Amaapr1	110261529	15793
+Amanita	rubescens	Amanita rubescens P_ilba v1.0	Amarub1	76593165	16076
+Amanita	thiersii	Amanita thiersii Skay4041 v1.0	Amath1	33689220	10354
+Trichoderma	arundinaceum IBT 40837	Trichoderma arundinaceum IBT 40837	Triaru1	36872412	10473
+Trichoderma	asperelloides	Trichoderma asperelloides TR356 v1.0	Triasp1	35388325	12320
+Trichoderma	asperellum	Trichoderma asperellum CBS 433.97 v1.0	Trias1	37464610	12586
+Trichoderma	atrobrunneum	Trichoderma atrobrunneum ITEM 908	Triatrob1	39149368	8637
+Trichoderma	atroviride B10	Trichoderma atroviride B10 v1.0	Triatr1	36332534	11909
+Trichoderma	atroviride F7	Trichoderma atroviride F7 v1.0	Triatro1	36520685	12001
+Trichoderma	atroviride P1	Trichoderma atroviride P1 v1.0	Triatrov1	37129917	12360
+Trichoderma	atroviride	Trichoderma atroviride v2.0	Triat2	36143664	11828
+Trichoderma	brevicompactum IBT40841	Trichoderma brevicompactum IBT40841	Tribre1	37043576	10406
+Trichoderma	citrinoviride	Trichoderma citrinoviride TUCIM 6016 v4.0	Trici4	33215161	9737
+Trichoderma	gamsii	Trichoderma gamsii T6085	Trigam1	37970415	10944
+Trichoderma	guizhouense	Trichoderma guizhouense NJAU 4742	Trigui1	38329450	11255
+Trichoderma	harzianum CBS	Trichoderma harzianum CBS 226.95 v1.0	Triha1	40980678	14095
+Trichoderma	harzianum M10	Trichoderma harzianum M10 v1.0	TriharM10_1	40484612	12842
+Trichoderma	harzianum T22	Trichoderma harzianum T22 v1.0	TriharT22_1	40378754	12762
+Trichoderma	harzianum TR274	Trichoderma harzianum TR274 v1.0	Trihar1	40870399	13932
+Trichoderma	longibrachiatum	Trichoderma longibrachiatum ATCC 18648 v3.0	Trilo3	32238325	10938
+Trichoderma	longibrachiatum	Trichoderma longibrachiatum MK1 v1.0	Trilon1	32342648	10046
+Trichoderma	parareesei	Trichoderma parareesei CBS 125925	Tripar1	32070663	9062
+Trichoderma	pleuroti TPhu1	Trichoderma pleuroti TPhu1	Triple1	38137656	10610
+Trichoderma	reesei QM6a	Trichoderma reesei QM6a	Trire_Chr	34922528	10052
+Trichoderma	reesei RUT C-30	Trichoderma reesei RUT C-30 v1.0	TrireRUTC30_1	32689233	9852
+Trichoderma	reesei v2.0	Trichoderma reesei v2.0	Trire2	33454791	9143
+Trichoderma	virens	Trichoderma virens Gv29-8 v2.0	TriviGv29_8_2	39022666	12423
+Trichoderma	hamatum	Trichoderma hamatum GD12	Triham1	38431721	10520
+Cenococcum	geophilum	Cenococcum geophilum 1.58 v2.0	Cenge3	177557160	14748
+Inocybe	NA	NA	NA	NA	NA
+Hebeloma	brunneifolium	Hebeloma brunneifolium PMI1Jessy v2.0	Hebvel2	65279695	20438
+Hebeloma	cylindrosporum	Hebeloma cylindrosporum h7 v2.0	Hebcy2	38226047	15382
+Lactifluus	subvellereus	Lactifluus cf. subvellereus BPL653 v1.0	Lacsub1	44824221	12802
+Lactifluus	volemus	Lactifluus cf. volemus BPL652 v1.0	Lacvol1	62975844	14970
+Ramaria	rubella	Ramaria rubella (R. acris) UT-36052-T v1.0	Ramac1	105462249	19287
+Craterellus	NA	NA	NA	NA	NA
+Tomentella	NA	NA	NA	NA	NA
+Membranomyces	NA	NA	NA	NA	NA
+Scabropezia	NA	NA	NA	NA	NA
+Metarhizium		Metarhizium acridum CQMa 102	Metac1	39422329	9849
+Metarhizium		Metarhizium anisopliae ARSEF 549	Metani1	38504274	10891
+Metarhizium		Metarhizium brunneum ARSEF3297	Metbr1	37016100	10689
+Metarhizium		Metarhizium robertsii ARSEF 23	Metro1	41656800	11688
+Cortinarius	aff. campbellae	Cortinarius aff. campbellae TAS5-PSC4363 v1.0	Corcam1	76968950	17407
+Cortinarius	austrovenetus	Cortinarius austrovenetus TL2843-KIS7R v1.0	Coraus1	62325647	14941
+Cortinarius	glaucopus	Cortinarius glaucopus AT 2004 276 v2.0	Corgl3	63450306	20377
+Cortinarius	sp.	Cortinarius sp. KIS3-TL2766 v1.0	CorKIS3_1	50107275	11569
+Peziza	echinospora	Peziza echinospora CBS 144458 v1.0	Pezech1	63768826	10991
+Hygrocybe	NA	NA	NA	NA	NA
+Gliophorus	NA	NA	NA	NA	NA
+Clavaria	NA	NA	NA	NA	NA
+Hydnum	rufescens	Hydnum rufescens UP504 v2.0	Hydru2	67135451	18665
+Conocybe	apala	Conocybe apala SZMC-NL-8967 v1.0	Conapa1	64080092	17284
+Sebacina	vermifera	Sebacina vermifera MAFF 305830 v1.0	Sebve1	38094242	15312
+Porotheleum	NA	NA	NA	NA	NA
+Pseudoomphalina	NA	NA	NA	NA	NA
+Tricholoma	populinum	Tricholoma populinum 2016PMI031 v1.0	Tripop1	136995582	19692
+Tricholoma	matsutake	Tricholoma matsutake 945 v3.0	Trima3	175759688	22885
+Rigidoporus	microporus	Rigidoporus microporus ED310 v1.0	Rigmic1	42090139	10917
+Humaria	NA	NA	NA	NA	NA
+Geoglossum	NA	NA	NA	NA	NA
+Phialocephala	scopiformis	Phialocephala scopiformis 5WS22E1 v1.0	Phisc1	48876257	18573
+Leptodontidium	sp.	Leptodontidium sp. MPI-SDFR-AT-0119 v2.0	Lepor2	77016911	21254
+Leptodontidium	sp.	Leptodontium sp. PMI_412 v1.0	Leptod1	73780780	22064
+Hyaloscypha	finlandica	Hyaloscypha finlandica PMI_746 v1.0	Hyafin1	64032857	17321
+Scleroderma	citrinum	Scleroderma citrinum hr. v1.0	Sclcihr1	77472219	10323
+Scleroderma	citrinum	Scleroderma citrinum Foug A v1.0	Sclci1	56144862	21012
+Hygrophorus	NA	NA	NA	NA	NA
+Rhizophydium	NA	NA	NA	NA	NA
+Humidicutis	NA	NA	NA	NA	NA
+Clavulinopsis	NA	NA	NA	NA	NA
+Pseudogymnoascus		Pseudogymnoascus destructans 20631-21	Pseudest1	35818201	9335
+Byssocorticium	NA	NA	NA	NA	NA
+Apiotrichum	NA	NA	NA	NA	NA
+Saitozyma	NA	NA	NA	NA	NA
+Humicola	NA	NA	NA	NA	NA
+Pachyphloeus	NA	NA	NA	NA	NA
+Rhodocollybia		Rhodocollybia butyracea CCBAS 279 v1.0	Rhobu1	78814333	19884
+Rhodocollybia		Rhodocollybia butyracea AH 40177 v1.0	Rhobut1_1	96282412	22870
+Cuphophyllus	NA	NA	NA	NA	NA
+Pseudotricholoma	NA	NA	NA	NA	NA
+Athelopsis	NA	NA	NA	NA	NA
+Apodus	NA	NA	NA	NA	NA
+Flagelloscypha	sp.	Flagelloscypha sp. PMI_526 v1.0	FlaPMI526_1	72728845	19929
+Clitopilus	NA	NA	NA	NA	NA
+Protoglossum	NA	NA	NA	NA	NA
+Xylodon	NA	NA	NA	NA	NA
+Xenasmatella	tulasnelloidea	Xenasmatella tulasnelloidea OMC1662 v1.0	Xentul1	51027523	14853
+Xenasmatella	vaga	Xenasmatella vaga CBS212.54 v1.0	Xenvag1	64171080	20933
+Sphaerobolus	stellatus	Sphaerobolus stellatus v1.0	Sphst1	176372157	35274
+Genea	NA	NA	NA	NA	NA
+Penicillium	sp.	Penicillium sp. DTU1 v1.0	Aspcris1	34884957	11734
+Penicillium	antarcticum	Penicillium antarcticum DTO 356-E5 v1.0	Penanta1	30741530	11610
+Penicillium	atramentosum	Penicillium atramentosum RS17 v1.0	Penatra1	32736673	10990
+Penicillium	bilaiae	Penicillium bilaiae ATCC 20851 v1.0	Penbi1	37537715	13606
+Penicillium	brevicompactum	Penicillium brevicompactum 1011305 v2.0	Penbr2	32114150	11536
+Penicillium	brevicompactum	Penicillium brevicompactum AgRF18 v1.0	PenbrAgRF18_1	31680764	12343
+Penicillium	canescens	Penicillium canescens ATCC 10419 v1.0	Penca1	33260822	12374
+Penicillium	chrysogenum	Penicillium chrysogenum v1.0	Pench1	31340922	11396
+Penicillium	chrysogenum	Penicillium chrysogenum Wisconsin 54-1255	PenchWisc1_1	32223735	13671
+Penicillium	citreonigrum	Penicillium citreonigrum cont 1189274 v1.0	Pencit1	34507973	12602
+Penicillium	digitatum	Penicillium digitatum PHI26	Pendi1	25956151	9118
+Penicillium	expansum	Penicillium expansum ATCC 24692 v1.0	Penex1	32451619	11807
+Penicillium	fellutanum	Penicillium fellutanum ATCC 48694 v1.0	Penfe1	30197732	11300
+Penicillium	glabrum	Penicillium glabrum DAOM 239074 v1.0	Pengl1	33163077	12328
+Penicillium	janthinellum	Penicillium janthinellum ATCC 10455 v1.0	Penja1	35149264	12098
+Penicillium	lanosocoeruleum	Penicillium lanosocoeruleum ATCC 48919 v1.0	Penla1	29053594	10698
+Penicillium	malodoratum	Penicillium malodoratum CBS 490.65 v1.0	Penmal1	28367822	9113
+Penicillium	oxalicum	Penicillium oxalicum 114-2	Penox1	30177368	9979
+Penicillium	raistrickii	Penicillium raistrickii ATCC 10490 v1.0	Penra1	31444823	11368
+Penicillium	solitum	Penicillium solitum IBT 30036 v1.0	Pensoli1	31749581	11843
+Penicillium	subrubescens	Penicillium subrubescens FBCC1632 / CBS132785	Pensub1	39803164	14188
+Penicillium	swiecickii	Penicillium swiecickii 182 6C1 v1.0	Penswi1	34125416	12802
+Penicillium	thymicola	Penicillium thymicola DAOMC 180753 v1.0	Penth1	33877935	12467
+Penicillium	vulpinum	Penicillium vulpinum IBT 29486	Penvul1	31032801	10278
+Penicillium	sp.	Penicillium sp. NC0857 v1.0	ThyNC0857_1	25598829	9624
+Glutinoglossum	NA	NA	NA	NA	NA
+Agrocybe	praecox	Agrocybe praecox OKM6292 v1.0	Agrpra2	46411657	12993
+Agrocybe	pediades	Agrocybe pediades AH 40210 v1.0	Agrped1	45056484	17281
+Boletus	coccyginus	Boletus coccyginus 2016PMI039 v1.0	Bolcoc1	54939811	12353
+Boletus	edulis	Boletus edulis BED1 v4.0	Boled5	66525535	18722
+Boletus	edulis	Boletus edulis P_ilba v1.0	Boledp1	69185680	18123
+Exophiala	alcalophila	Exophiala alcalophila ATCC 48519 v1.0	Exoalc1	29813316	12077
+Exophiala	alcalophila	Exophiala alcalophila J33 v1.0	Exoalc1_J33	29703595	12081
+Exophiala	aquamarina	Exophiala aquamarina CBS 119918	Exoaq1	41566958	13118
+Exophiala	limosus	Exophiala limosus JF 03-4F Slimy v1.0	EurotioJF034F_1	28227525	11358
+Exophiala	mesophila	Exophiala mesophila CBS40295	Exome1	29273723	10347
+Exophiala	oligosperma	Exophiala oligosperma CBS72588	Exool1	38224514	13234
+Exophiala	sideris	Exophiala sideris CBS121828	Exosi1	29505589	11120
+Exophiala	sp.	Exophiala sp. JF 06-1F Fuzzy v1.0	ExoJF061F_1	36371821	13998
+Exophiala	spinifera	Exophiala spinifera CBS89968	Exosp1	32912349	12049
+Exophiala	viscosium	Exophiala viscosium JF 03-3F Goopy v1.0	EurotioJF033F_1	28289675	11344
+Exophiala	xenobiotica	Exophiala xenobiotica CBS118157	Exoxe1	31405760	13187
+Mycenella	NA	NA	NA	NA	NA
+Clavulina	NA	NA	NA	NA	NA
+Chloridium	NA	NA	NA	NA	NA
+Steccherinum	NA	NA	NA	NA	NA
+Calcarisporiella	NA	NA	NA	NA	NA
+Asterostroma	NA	NA	NA	NA	NA
+Cladophialophora	bantiana	Cladophialophora bantiana CBS 173.52	Claba1	36722552	12762
+Cladophialophora	carrionii	Cladophialophora carrionii CBS 160.54	Claca1	28991111	10373
+Cladophialophora	immunda	Cladophialophora immunda CBS83496	Claim1	43029152	14033
+Cladophialophora	yegresii	Cladophialophora yegresii CBS 114405	Claye1	27898422	10118
+Elaphomyces	NA	NA	NA	NA	NA
+Trichoglossum	NA	NA	NA	NA	NA
+Hortiboletus	NA	NA	NA	NA	NA
+Kuehneromyces	NA	NA	NA	NA	NA
+Ilyonectria	europaea	Ilyonectria europaea PMI82 v1.0	Ilysp1	63663791	22250
+Ilyonectria	robusta	Ilyonectria robusta PMI_751 v1.0	Ilyrob1	59648482	20499
+Ilyonectria	sp.	Ilyonectria sp. MPI-CAGE-AT-0026 v1.0	Ilyeu1	62828295	20870
+Ilyonectria	sp.	Ilyonectria sp. MPI-CAGE-AT-0134 v1.0	Neora1	71715727	22025
+Entoloma	NA	NA	NA	NA	NA
+Rectipilus	NA	NA	NA	NA	NA
+Marasmius	fiardii	Marasmius fiardii PR-910 v1.0	Marfi1	59447912	17098
+Mucor	lusitanicus	Mucor lusitanicus (circinelloides) MU402 v1.0	Muccir1_3	36817399	11843
+Mucor	lusitanicus	Mucor lusitanicus CBS277.49 v2.0	Mucci2	36587022	11719
+Mucor	mucedo	Mucor mucedo NRRL 3635 v1.0	Mucmuc1	46091836	14052
+Mucor	cordense	Mucor cordense RSA 1222 v1.0	Kircor1	40953002	16794
+Mucor	heterogamus	Mucor heterogamus NRRL 1489 v1.0	Zyghet1	54487678	14998
+Hymenogaster	NA	NA	NA	NA	NA
+Geminibasidium	NA	NA	NA	NA	NA
+Pachyphlodes	NA	NA	NA	NA	NA
+Botryobasidium	botryosum	Botryobasidium botryosum v1.0	Botbo1	46674321	16526
+Athelia	NA	NA	NA	NA	NA
+Cephalotheca	NA	NA	NA	NA	NA
+Armillaria	borealis	Armillaria borealis FPL87.14 v1.0	Armbor1	71689880	19984
+Armillaria	cepistipes	Armillaria cepistipes B5	Armcep1	75828441	23460
+Armillaria	ectypa	Armillaria ectypa FPL83.16 v1.0	Armect1	40598130	12228
+Armillaria	fumosa	Armillaria fumosa CBS 122221 v1.0	Armfum1	55824865	16095
+Armillaria	gallica	Armillaria gallica 21-2 v1.0	Armga1	85336812	25704
+Armillaria	luteobubalina	Armillaria luteobubalina HWK02 v1.0	Armlut1	97106278	20318
+Armillaria	mellea	Armillaria mellea DSM 3731	Armme1_1	79545241	14473
+Armillaria	nabsnona	Armillaria nabsnona CMW6904 v1.0	Armnab1	62718798	19015
+Armillaria	novae-zelandiae	Armillaria novae-zelandiae 2840 v1.0	Armnov1	79334843	18551
+Armillaria	ostoyae	Armillaria ostoyae C18/9	Armosto1	60106801	22705
+Armillaria	solidipes	Armillaria solidipes 28-4 v1.0	Armost1	58009494	20811
+Armillaria	tabescens	Armillaria tabescens CCBAS 213 v1.0	Armtab1	74875987	19032
+Oidiodendron	maius	Oidiodendron maius Zn v1.0	Oidma1	46426256	16703
+Leohumicola	NA	NA	NA	NA	NA
+Rhizophagus	cerebriforme	Rhizophagus cerebriforme DAOM 227022 v1.0	Rhice1_1	136890557	21549
+Rhizophagus	diaphanus	Rhizophagus diaphanus v1.0	Rhidi1	125876003	23252
+Rhizophagus	irregularis	Rhizophagus irregularis A1 v1.0	RhiirA1_1	125868962	26659
+Rhizophagus	irregularis	Rhizophagus irregularis A4 v1.0	RhiirA4	138301208	25760
+Rhizophagus	irregularis	Rhizophagus irregularis A5 v1.0	RhiirA5	131461109	26585
+Rhizophagus	irregularis	Rhizophagus irregularis B3 v1.0	RhiirB3	124893935	25164
+Rhizophagus	irregularis	Rhizophagus irregularis C2 v1.0	RhiirC2	122966682	26756
+Rhizophagus	irregularis	Rhizophagus irregularis DAOM 181602 v1.0	Gloin1	91083792	30282
+Rhizophagus	irregularis	Rhizophagus irregularis DAOM 197198 v2.0	Rhiir2_1	136807476	26183
+Glomus	NA	NA	NA	NA	NA
